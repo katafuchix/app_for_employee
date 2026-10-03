@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718847743979",
+    "project_id": "app-5-5b64a",
+    "storage_bucket": "app-5-5b64a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718847743979:android:c4eaaaa0a384d10f222bae",
+        "android_client_info": {
+          "package_name": "com.tebanashi.tebanashi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDptF8u-ALKLhEUH78qmYOgo9ylt_ogpR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
