@@ -1,4 +1,4 @@
-# tebanashi
+
 
 店舗管理・勤怠管理用 Flutter アプリケーション。
 
